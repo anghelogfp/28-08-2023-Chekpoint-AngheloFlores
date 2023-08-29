@@ -1,0 +1,66 @@
+ 1  ls
+    2  js
+    3  git clone https://github.com/anghelogfp/28-08-2023-Chekpoint-AngheloFlores
+    4  ls
+    5  cd 28-08-2023-Chekpoint-AngheloFlores/
+    6  ls
+    7  clear
+    8  touch main.js index.html
+    9  ls
+   10  git status
+   11  ls
+   12  clear
+   13  git add .
+   14  git status
+   15  git commit -m "commit 01 de angheloFlores"
+   16  git config --global user.email "anghelogfp@gmail.com"
+   17  git config --global user.name "AngheloFlores"
+   18  git commit -m "commit 01 de angheloFlores"
+   19  git push -u origin main
+   20  git status
+   21  git checkout feature
+   22  git branch feature
+   23  git checkout feature
+   24  mkdir hardware
+   25  ls
+   26  ls
+   27  mkdir software
+   28  mkdir seguridadInformatica
+   29  ls
+   30  cd hardware/
+   31  touch resumen.txt
+   32  ls
+   33  cd ..
+   34  cd software/
+   35  touch resumen.txt
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd seguridadInformatica/
+   40  ls
+   41  touch resumen.txt
+   42  git status
+   43  cd ..
+   44  ls
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "commit 02 de angheloFlores"
+   49  git push -u origin feature
+   50  git status
+   51  git checkout main
+   52  ls
+   53  mv main.js resumenHardware.txt
+   54  ls
+   55  mv index.html resumen
+   56  ls
+   57  mv resumen resumenSoftware.txt
+   58  ls
+   59  ls
+   60  vim resumenSoftware.txt
+   61  ls
+   62  vim resumenHardware.txt
+   63  clear
+   64  touch comandos.txt
+   65  git history
+   66  history:
